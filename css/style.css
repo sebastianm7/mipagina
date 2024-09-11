@@ -1,0 +1,356 @@
+html,
+body {
+  overflow-x: hidden;
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 0%;
+}
+#nombre {
+  background-color: #000033;
+  color: white;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 2rem;
+}
+#yo {
+  display: flex;
+  margin-left: 2rem;
+  width: 5em;
+  height: 5em;
+}
+#sobremi {
+  background-color: skyblue;
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: center;
+}
+#descripcion {
+  width: 50%;
+  text-align: justify;
+}
+#misestudios {
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+  background-color: skyblue;
+}
+#me1 {
+  background-color: #000033;
+  color: white;
+  width: 100%;
+  height: 4rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 2rem;
+}
+#me1-1 {
+  background-color: skyblue;
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: center;
+  height: 25rem;
+  margin-left: 4rem;
+}
+#me2-0 {
+  display: grid;
+  margin-right: 5rem;
+  margin-top: 2rem;
+  text-align: center;
+}
+#me2-1 {
+  display: grid;
+  margin-right: 5rem;
+  margin-top: 2rem;
+  text-align: center;
+}
+#lasalle {
+  display: flex;
+  width: 15rem;
+  height: 15rem;
+  justify-self: center;
+}
+#ufps {
+  display: flex;
+  width: 15rem;
+  height: 15rem;
+  justify-self: center;
+}
+#i1 {
+  background-color: #000033;
+  color: white;
+  width: 100%;
+  height: 4rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 2rem;
+}
+#i1-1 {
+  background-color: skyblue;
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: center;
+  height: 25rem;
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+#i2 {
+  text-align: center;
+  width: 20%;
+  height: 50%;
+}
+#i3 {
+  text-align: center;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+#i4 {
+  text-align: center;
+}
+#spanish {
+  display: flex;
+  margin-top: 0rem;
+  width: 21rem;
+  height: 21rem;
+}
+#english {
+  display: flex;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  width: 17rem;
+  height: 17rem;
+}
+#french {
+  display: flex;
+  margin-top: 2rem;
+  width: 17rem;
+  height: 17rem;
+}
+#idiomas {
+  background-color: skyblue;
+}
+#lenguajesdeprog {
+  background-color: skyblue;
+}
+#ldp1 {
+  background-color: #000033;
+  color: white;
+  width: 100%;
+  height: 4rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 2rem;
+}
+#ldp2 div {
+  background-color: skyblue;
+  display: flex;
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+#ldp3 div {
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+#ldp4 div {
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+#ldp5 div {
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+#ldp6 div {
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+#ldp3 div img {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 9rem;
+  margin-bottom: 2rem;
+  width: 13rem;
+  height: 13rem;
+}
+#ldp4 div img {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 9rem;
+  margin-bottom: 2rem;
+  width: 13rem;
+  height: 13rem;
+}
+#ldp5 div img {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 9rem;
+  margin-bottom: 2rem;
+  width: 13rem;
+  height: 13rem;
+}
+#ldp6 div img {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 9rem;
+  margin-bottom: 2rem;
+  width: 13rem;
+  height: 13rem;
+}
+#ldp4 div {
+  text-align: center;
+  display: block;
+}
+#ldp5 div {
+  text-align: center;
+  display: block;
+}
+#ldp6 div {
+  text-align: center;
+  display: block;
+}
+#experiencialab {
+  background-color: skyblue;
+}
+#el1 {
+  background-color: #000033;
+  color: white;
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 2rem;
+}
+#el1-1 {
+  width: 100%;
+  height: 30rem;
+  display: flex;
+  margin-left: 20rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+#el2 {
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
+#el3 {
+  margin-left: 10rem;
+  margin-top: 3rem;
+}
+#caribe {
+  width: 15rem;
+  height: 17rem;
+  margin-bottom: -1rem;
+}
+#celeus {
+  margin-top: 2.1rem;
+  margin-bottom: 0.5rem;
+  width: 19rem;
+  height: 13rem;
+}
+#lenguajesdeprog img {
+  width: 1rem;
+  height: 1rem;
+}
+#certificaciones {
+  text-align: center;
+  background-color: skyblue;
+  height: 90rem;
+}
+#cer0 {
+  background-color: #000033;
+  color: white;
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 2rem;
+}
+#cer1-1 {
+  display: flex;
+  width: 100%;
+  height: 27rem;
+  font-size: 1.3rem;
+  margin-top: 3rem;
+  margin-left: 3.6rem;
+}
+#cer1-2 {
+  display: flex;
+  width: 100%;
+  height: 27rem;
+  font-size: 1.3rem;
+  margin-left: 3.6rem;
+}
+#cer1-3 {
+  display: flex;
+  width: 100%;
+  height: 27rem;
+  font-size: 1.3rem;
+  justify-content: center;
+}
+#certificaciones embed {
+  display: flex;
+  width: 27rem;
+  height: 21rem;
+  margin-left: 2rem;
+  margin-top: 0.5rem;
+}
+#proyectos {
+  background-color: skyblue;
+}
+#pro1 {
+  background-color: #000033;
+  color: white;
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 2rem;
+}
+#pro1-1 {
+  display: flex;
+  width: 100%;
+  height: 19rem;
+  font-size: 1.3rem;
+  background-color: skyblue;
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+#proyectos img {
+  width: 14rem;
+  height: 14rem;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+#contacto {
+  background-color: #000033;
+  text-align: center;
+}
+#redes img {
+  width: 2rem;
+  height: 2rem;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+a {
+  color: white;
+}
